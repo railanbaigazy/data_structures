@@ -1,0 +1,31 @@
+Medium Problem:
+Evaluate Reverse Polish Notation (RPN)
+
+Given a list of arithmetic expressions in Reverse Polish Notation (postfix notation), evaluate the expressions and return the result. 
+The input expression consists of operands and operators, where operators include '+', '-', '*', and '/'. 
+Each operand may be an integer or another expression.
+
+Examples:
+
+Input: ["2", "1", "+", "3", "*"]
+Output: 9
+
+Input: ["4", "13", "5", "/", "+"]
+Output: 6
+
+
+_Notes_
+C++:
+If you're using g++ compiler, to avoid compilation warnings or errors - use this code in your terminal to compile the program:
+
+g++ -std=c++11 solution.cpp
+
+Change 'solution.cpp' to your file's name 
+
+
+JS:
+You can do all code either with HTML page or Node.js
+You can get inputs with 'prompt()' function
+You can output the answer either with 'console.log()' or 'alert()'
+
+

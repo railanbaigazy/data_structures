@@ -1,0 +1,25 @@
+Hard Problem:
+Largest Rectangle in Histogram
+
+Given an array representing the heights of bars in a histogram, find the area of the largest rectangle that can be formed by the it. 
+The array represents the heights of the bars, and the width of each bar is assumed to be 1.
+
+Example:
+
+Input: [2,1,5,6,2,3]
+Output: 10
+
+
+_Notes_
+C++:
+If you're using g++ compiler, to avoid compilation warnings or errors - use this code in your terminal to compile the program:
+
+g++ -std=c++11 solution.cpp
+
+Change 'solution.cpp' to your file's name 
+
+
+JS:
+You can do all code either with HTML page or Node.js
+You can get inputs with 'prompt()' function
+You can output the answer either with 'console.log()' or 'alert()'

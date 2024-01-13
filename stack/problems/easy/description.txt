@@ -1,0 +1,34 @@
+Easy Problem:
+Parenthesis Matching
+
+Given a string containing only the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. 
+
+An input string is valid if:
+Open brackets are closed immediately.
+Open brackets must be closed by the same type of brackets.
+Open brackets must be closed in the correct order.
+
+Examples:
+
+Input: "()"
+Output: true
+
+Input: "()[]{}"
+Output: true
+
+Input: "(]"
+Output: false
+
+_Notes_
+C++:
+If you're using g++ compiler, to avoid compilation warnings or errors - use this code in your terminal to compile the program:
+
+g++ -std=c++11 solution.cpp
+
+Change 'solution.cpp' to your file's name 
+
+
+JS:
+You can do all code either with HTML page or Node.js
+You can get inputs with 'prompt()' function
+You can output the answer either with 'console.log()' or 'alert()'
